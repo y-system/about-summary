@@ -1,0 +1,8 @@
+{
+  "name": "Statistical Summary",
+  "fullName": "Summary of sentence",
+  "description": "Web ページの文章の解析を行う",
+  "author": "y_system",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
